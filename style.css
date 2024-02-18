@@ -18,15 +18,40 @@ body {
     
 }
 
-.cardTitle{
-    
-    color: #95504F;
-    font-size: 2em;
 
+.bannerImage{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
 }
 
-.card.mb-3{
+.card-title{
     
-    align-self: center;
+    font-size: 2em;
+    color: #95504F;
+}
+
+.card-text{
+    
+    font-size: 1em;
+    color: #95504F;
+}
+
+#userFlowText{
+    
+    text-align: center;
+    color: #95504F;
+    
+}
+
+#userFlowImage{
+    
+    width: 75%;
+    padding-left: 300px;
     
 }
